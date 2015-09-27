@@ -1,0 +1,23 @@
+{
+  "name": "200299681lab2",
+  "version": "1.0.0",
+  "description": "this is a simple calculator",
+  "main": "Lab2.js",
+  "dependencies": {
+    "nodemon": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarenSpringford/comp2068-lab2.git"
+  },
+  "author": "Karen Springford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarenSpringford/comp2068-lab2/issues"
+  },
+  "homepage": "https://github.com/KarenSpringford/comp2068-lab2#readme"
+}
